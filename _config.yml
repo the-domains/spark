@@ -1,0 +1,28 @@
+name: spark
+favicon: null
+layout_spectrum: 0.6760805370286107
+typography_spectrum: 0.90046954783611
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4205112310592085
+  lightness: 0.07879919046536088
+  saturation: 0.9636271726340055
+  rhythmicContrast: 0.3059081139508635
+purpose: []
