@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "Bespoke creations" by sparkfire on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-02-25T02:30:48.567Z'
-dateModified: '2016-02-25T02:22:42.019Z'
+datePublished: '2016-02-25T02:32:47.417Z'
+dateModified: '2016-02-25T02:32:43.455Z'
 author:
   - name: Spark Fire Dance
     url: 'http://vimeo.com/sparkfire'
