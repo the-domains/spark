@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[spark]]></title>
         <description><![CDATA[spark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 07:09:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 02:00:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/136370653</p>]]></description>
+            <link>https://thegrid.ai/spark/b41aae9f-6277-4ccb-bff7-b7228c453fa0/index.html</link>
+            <guid isPermaLink="false">b41aae9f-6277-4ccb-bff7-b7228c453fa0</guid>
+            <pubDate>Thu, 25 Feb 2016 02:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spark]]></title>
-            <description><![CDATA[<article><h1>Spark</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b65f5ff4-a39f-4d7c-9159-7b1fe0ab054b.jpg"></article>]]></description>
-            <link>undefinedspark/index.html</link>
+            <description><![CDATA[<article><h1>Spark</h1><p>Fire, world travel, crazy shows, wild festivals, special events and explosive adventure stories from the jetsetting cirque duo Dan & Steffi of Spark Fire Dance</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27bd784f1f5e1f84bca452d1784f66ee9f2a3f49.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spark/spark/index.html</link>
             <guid isPermaLink="false">b07a532a-b306-4155-90ba-7d2ee6122a26</guid>
             <pubDate>Thu, 31 Dec 2015 07:08:54 GMT</pubDate>
         </item>
