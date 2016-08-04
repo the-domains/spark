@@ -1,20 +1,4 @@
-name: spark
-favicon: null
-layout_spectrum: 0.6760805370286107
 typography_spectrum: 0.90046954783611
-title: Creating extraordinary experiences for corporate and private events worldwide.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,21 @@ color:
   lightness: 0.07879919046536088
   saturation: 0.9636271726340055
   rhythmicContrast: 0.3059081139508635
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6760805370286107
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: spark
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Creating extraordinary experiences for corporate and private events worldwide.
+description: contact info@sparkfiredance.com now
 purpose: []
